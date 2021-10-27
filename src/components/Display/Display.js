@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
+import './Display.css'
 
 const Display = () => {
     let { serviceKey } = useParams();
@@ -20,10 +21,10 @@ const Display = () => {
     }, [services, dServicekey]);
 
     return (
-        <div>
-            <div className="text-center">
+        <div className="full-display">
+            <div className="text-center display">
 
-                <img src={details?.img} alt="" className="" />
+                <img src={details?.img} alt="" className="img-size" />
                 <br />
                 <h2>{details?.name}</h2>
                 <p>{details?.description}</p>

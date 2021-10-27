@@ -9,6 +9,10 @@
     width:40%;
 }
 
+.banner{
+   background-color: rgb(231, 243, 236);
+   padding: 20px 0;
+}
 
 .banner h3{
  font-size: 2rem;
