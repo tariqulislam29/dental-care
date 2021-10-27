@@ -1,0 +1,15 @@
+.login-details{
+    width: 40%;
+}
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+
+
+.login-details{
+    width: 100%;
+     margin-bottom: 20px;
+}
+
+
+
+}

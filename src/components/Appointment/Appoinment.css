@@ -1,0 +1,43 @@
+.custom-bg {
+    background-color: rgb(231, 243, 236);
+}
+
+.appoinment-item {
+    width: 50%;
+    padding: 20px 30px;
+    border:1px solid rgb(231, 243, 236); 
+}
+.appoinment-content {
+    
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(231, 243, 236);
+}
+
+.appoinment-button button {
+    border: transparent;
+    padding: 3px 30px;
+    transition: all 1s ease-in-out;
+    
+}
+
+.appoinment-button button:hover{
+    background-color: rgb(35, 179, 97)!important;
+    
+}
+
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+.container{
+    flex-direction: column;
+}
+.appoinment-item{
+    width: 100%;
+    margin-bottom: 20px;
+   
+}
+
+
+
+
+}

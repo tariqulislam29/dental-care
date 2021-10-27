@@ -1,0 +1,46 @@
+.about{
+    display: flex;
+   width: 100%;
+   margin-top: 30px;
+   margin-bottom: 100px;
+   border: 1px solid rgb(243, 242, 242);
+   padding: 50px 0;
+}
+.about-image{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+}
+.about-image img{
+    width: 70%;
+    height: 70vh;
+}
+
+.about-details{
+    width: 50%;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+}
+.about-details button{
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+.about{
+    flex-direction: column;
+}
+.about-image{
+    width: 100%;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+.about-details{
+    width: 100%;
+}
+
+
+
+}

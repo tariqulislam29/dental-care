@@ -1,0 +1,44 @@
+[
+    {
+        "key": 1,
+        "name": "Dr.Bora Tumnus ",
+        "title": "M.D, pH.D",
+        "img": " https://j758s1irpz926ddw14fjwet1-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/doctor3-1.jpg ",
+        "specialist": " Orthodontist."
+    },
+    {
+        "key": 2,
+        "name": " Dr.Charl Marks",
+        "title": "M.D, pH.D",
+        "img": " https://j758s1irpz926ddw14fjwet1-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/doctor4-1.jpg",
+        "specialist": "General, Orthodontist."
+    },
+    {
+        "key": 3,
+        "name": " Dr.Quintina",
+        "title": "M.D, pH.D",
+        "img": "  https://j758s1irpz926ddw14fjwet1-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/doctor7.jpg",
+        "specialist": " General, Maxillofacial Surgery."
+    },
+    {
+        "key": 4,
+        "name": " Dr.Daniel Craig",
+        "title": "M.D, pH.D",
+        "img": "https://j758s1irpz926ddw14fjwet1-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/doctor5-2.jpg",
+        "specialist": "  Laboratory, Orthodontist. "
+    },
+    {
+        "key": 5,
+        "name": " Dr.Anagha Menen",
+        "title": "M.D, pH.D",
+        "img": " https://j758s1irpz926ddw14fjwet1-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/doctor1.jpg",
+        "specialist": " Cosmetic Surgery."
+    },
+    {
+        "key": 6,
+        "name": " Dr.Ankitha Prem",
+        "title": "M.D, pH.D",
+        "img": " https://j758s1irpz926ddw14fjwet1-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/doctor2-1.jpg",
+        "specialist": "Maxillofacial Surgery."
+    }
+]
